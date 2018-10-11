@@ -1,0 +1,4 @@
+github.com/cdipaolo/goml v0.0.0-20161030204843-e2d8def04c9a h1:+8ndgVCRTyBJKTxfdzvDi2p7I+5ahjA7NRhlH7mNfIA=
+github.com/cdipaolo/goml v0.0.0-20161030204843-e2d8def04c9a/go.mod h1:sduMkaHcXDIWurl/Bd/z0rNEUHw5tr6LUA9IO8E9o0o=
+golang.org/x/text v0.3.0 h1:g61tztE5qeGQ89tm6NTjjM9VPIm088od1l6aSorWRWg=
+golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
